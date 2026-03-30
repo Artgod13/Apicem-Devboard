@@ -1,4 +1,4 @@
-# Apicem Devboard
+# **Apicem Devboard**
 
 ![Project Logo](images/Apicem-coverart.svg "Apicem Cover Art")
 
