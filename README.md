@@ -1,5 +1,9 @@
-# **Apicem Devboard**
+# Description
+The Apicem Devboard is a Devboard designed by me for Hack Club. Currently it uses a RP2040 MCU, USB-C Power, 16 Mb Flash Storage, Reset Button, Power Indication LED, and a Neo Pixel Status LED. The board was designed to handle 0.6 amps of power. All of these features were added with what is essential in a board in mind. This board was designed to be like a Pi-Pico but way beefier and look cooler. In theory it should be exactly the same dimensions as a Pi-Pico and it uses the same MCu as the Pi-Pico. This board is named "Apicem" as that's latin for "vertex" or "peak" showing how this board is the peak of it's kind.
 
-![Project Logo](images/Apicem-coverart.svg "Apicem Cover Art")
+<img width="1514" height="861" alt="image" src="https://github.com/user-attachments/assets/3bf57fd3-5ed8-4374-9177-73f7613df87f" />
 
-This is a custom Devboard that I am fully making myself. It will have a lot of sensors/parts in it to enhance user experience with it while being small and slick like a Pi Pico. I plan on making cool original art for the silk screen so you can always pull up with the coolest Devboard.
+
+
+## Schematic
+<img width="1282" height="879" alt="image" src="https://github.com/user-attachments/assets/6e27608f-4622-496b-8c68-1c03c49440c5" />
