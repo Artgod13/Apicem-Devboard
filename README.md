@@ -7,3 +7,9 @@ The Apicem Devboard is a Devboard designed by me for Hack Club. Currently it use
 
 ## Schematic
 <img width="1282" height="879" alt="image" src="https://github.com/user-attachments/assets/6e27608f-4622-496b-8c68-1c03c49440c5" />
+
+## PCB
+<img width="375" height="892" alt="image" src="https://github.com/user-attachments/assets/cef80c63-2028-45b3-9784-94d1e6c62d99" />
+<img width="370" height="888" alt="image" src="https://github.com/user-attachments/assets/120c98b2-6c2e-4bad-ab61-62c7c0b48485" />
+<img width="377" height="892" alt="image" src="https://github.com/user-attachments/assets/7910a75b-435e-4809-9b4e-f1576aa671c8" />
+<img width="368" height="885" alt="image" src="https://github.com/user-attachments/assets/582ff8a5-f6e0-40d7-a080-ab3f2e35b7a9" />
