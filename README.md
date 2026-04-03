@@ -4,6 +4,8 @@ The Apicem Devboard is a Devboard designed by me for Hack Club. Currently it use
 <img width="1514" height="861" alt="image" src="https://github.com/user-attachments/assets/3bf57fd3-5ed8-4374-9177-73f7613df87f" />
 
 
+## My Documented Journey
+See [My Journal](./JOURNAL.md)
 
 ## Schematic
 <img width="1282" height="879" alt="image" src="https://github.com/user-attachments/assets/6e27608f-4622-496b-8c68-1c03c49440c5" />
