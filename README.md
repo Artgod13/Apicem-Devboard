@@ -16,4 +16,4 @@ The Apicem Devboard is a Devboard designed by me for Hack Club. Currently it use
 
 ## 3D Images
 <img width="844" height="785" alt="image" src="https://github.com/user-attachments/assets/5d4f4ab0-cbda-44cb-85dc-cf9e5df2d3cd" />
-<img width="877" height="473" alt="image" src="https://github.com/user-attachments/assets/006e63ee-5b4d-47c6-9b55-8f2254ef46c5" />
+<img width="825" height="463" alt="image" src="https://github.com/user-attachments/assets/b964e7e4-f135-4b6e-a4ea-80a992050d25" />
